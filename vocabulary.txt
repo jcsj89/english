@@ -1,0 +1,202 @@
+a
+about
+all
+also
+and
+as
+at
+be
+because
+but
+by
+can
+come
+could
+day
+do
+even
+find
+first
+for
+from
+get
+give
+go
+have
+he
+her
+here
+him
+his
+how
+I
+if
+in
+into
+it
+its
+just
+know
+like
+look
+make
+man
+many
+me
+more
+my
+new
+no
+not
+now
+of
+on
+one
+only
+or
+other
+our
+out
+people
+say
+see
+she
+so
+some
+take
+tell
+than
+that
+the
+their
+them
+then
+there
+these
+they
+thing
+think
+this
+those
+time
+to
+two
+up
+use
+very
+want
+way
+we
+well
+what
+when
+which
+who
+will
+with
+would
+year
+you
+your
+
+    The (o,a,os,as)
+    of (do, de, por, sobre)
+    and (e)
+    a (um,uma)
+    to (para, de, até)
+    in (dentro, em)
+    is (é, está)
+    you (você, vocês)
+    that (que, isso, aquele, aquela)
+    it (ele, ela , isto)-objetos, animais
+    he (ele)
+    was (foi, estava)
+    for (para, por)
+    on (em, sobre no)
+    are (são, estão)
+    as (como, como por exemplo)
+    with (com)
+    his (dele)
+    they (eles, elas)
+    I (Eu)
+    at (em, na, no)
+    be (ser, estar)
+    this (isso,esta,este)
+    have (ter, possuir)
+    from (de, do, a partir de)
+    or (ou)
+    one (um)
+    had (tinha, possuía)
+    by (de, por, através)
+    word (palavra)
+    but (mas, porém)
+    not (não)
+    what (O que)
+    all (tudo)
+    were (era, estava)
+    we (nós)
+    when (Quando)
+    your (seu)
+    can (pode)
+    said (disse)
+    there (ali, aí, lá)
+    use (usar)
+    an (um, uma)
+    each (cada)
+    which (qual, que)
+    she (ela)
+    do (fazer, realizar)
+    how (como)
+    their (deles)
+    if (se)
+    will (vai)
+    up (para cima, sobe)
+    other (outro)
+    about (sobre, a cerca de)
+    out (fora)
+    many (muitos, muitas)
+    then (então, em seguida)
+    them (eles, elas)
+    these (estes, estas)
+    so (assim, então, deste modo, tão. muito)
+    some (alguns, algumas)
+    her (dela)
+    would (seria)
+    make (fazer, criar)
+    like (gostar, como)
+    him (ele, dele)
+    into (em, para dentro, dentro)
+    time (tempo)
+    has (tem, possui)
+    look (olhar, procurar)
+    two (dois)
+    more (mais)
+    write (escrever)
+    go (ir)
+    see (ver)
+    number (número)
+    no (não)
+    way (caminho, forma, jeito)
+    could (poderia)
+    people (pessoas)
+    my (meu)
+    than (do que)
+    first (primeiro, primeira)
+    water (água)
+    been (fui, estive)
+    call (ligar, chamar)
+    who (quem, que)
+    oil (óleo)
+    its (seus, sua, seu – quando se refere a ele ou ela)
+    now (agora)
+    find (encontrar)
+    long (longo, comprido)
+    down (baixo, para baixo)
+    day (dia)
+    did (fez)
+    get (obter, receber, conseguir, compreenderm adquirir)
+    come (vir, chegar)
+    made (feito, fabricado)
+    may (pode, poder, pode ser)
+    part (parte)
+
