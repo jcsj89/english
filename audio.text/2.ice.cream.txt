@@ -1,0 +1,103 @@
+https://www.ted.com/talks/jac_de_haan_why_do_competitors_open_their_stores_next_to_one_another/transcript
+
+Why are gas stations always built right next to other gas stations? 
+Por que os postos de gasolina são construídos ao lado de outros postos de gasolina?
+
+Why can I drive for a mile without finding a coffee shop and then stumble across three on the same corner? 
+Por que acontece de dirigir por quilômetros sem achar um café e de repente me deparo com três na mesma esquina?
+
+Why do grocery stores, auto repair shops and restaurants always seem to exist in groups instead of being spread evenly throughout a community? 
+Por que mercearias, mecânicos e restaurantes sempre parecem estar em grupos em vez de estar espalhados uniformemente pela comunidade?
+
+While there are several factors that might go into deciding where to place your business, clusters of similar companies can be explained by a very simple story called Hotelling's Model of Spatial Competition. 
+Enquanto há vários fatores que podem nortear a escolha do local para instalar seu negócio, blocos de companhias similares podem ser explicados por uma história simples, chamada Modelo de Competição Espacial de Hotelaria.
+
+Imagine that you sell ice cream at the beach.  
+Imagine que você vende sorvete na praia. 
+
+Your beach is one mile long and you have no competition.
+Sua praia tem quase 2km e você não tem concorrência.
+
+Where would you place your cart in order to sell the most product? 
+Onde você deve colocar seu carrinho para vender o máximo de produtos?
+
+In the middle. 
+No meio.
+
+The one-half-mile walk may be too far for some people at each end of the beach, but your cart serves as many people as possible. 
+O passeio de quase 1km pode ser muito para algumas pessoas no extremo da praia, mas seu carrinho atende tantas pessoas quanto possível.
+
+One day you show up at work just as your cousin Teddy is arriving at the beach with his own ice cream cart. 
+Um dia, você aparece para trabalhar na hora que o seu primo Teddy está chegando à praia com o seu carrinho de sorvete.
+
+In fact, he's selling exactly the same type of ice cream as you are. You agree that you will split the beach in half. 
+Na verdade, ele está vendendo o mesmo tipo de sorvete que você. Vocês entram em acordo e dividem a praia ao meio.
+
+In order to ensure that customers don't have to walk too far, you set up your cart a quarter mile south of the beach center, right in the middle of your territory. 
+De modo a garantir que os clientes não precisem andar muito, você coloca o seu carrinho 400m ao sul do centro da praia, no meio do seu território.
+
+Teddy sets up a quarter mile north of the center, in the middle of Teddy territory. 
+Teddy instala-se 400m ao norte do centro da praia, no meio do território dele.
+
+With this agreement, everyone south of you buys ice cream from you. 
+Com este acordo, todos ao sul de você compram seus sorvetes.
+
+Everyone north of Teddy buys from him, and the 50% of beachgoers in between walk to the closest cart.
+Todos ao norte compram do Teddy, e os 50% dos frequentadores entre vocês vão até o carrinho mais próximo.
+
+No one walks more than a quarter of a mile, and both vendors sell to half of the beachgoers.
+Ninguém anda mais do que 400m, e ambos atendem metade dos frequentadores.
+
+Game theorists consider this a socially optimal solution. 
+Os teóricos dos jogos consideram esta uma solução socialmente ótima.
+
+It minimizes the maximum number of steps any visitor must take in order to reach an ice cream cart. 
+Minimiza o número máximo de passos que qualquer visitante precisa dar para chegar a um carrinho de sorvete.
+
+The next day, when you arrive at work, Teddy has set up his cart in the middle of the beach. 
+No dia seguinte, quando você chega para trabalhar, Teddy colocou seu carrinho no centro da praia.
+
+You return to your location a quarter mile south of center and get the 25% of customers to the south of you. 
+Você vai para o seu ponto a 400m para o sul do centro e atende 25% dos fregueses ao sul de você.
+
+Teddy still gets all of the customers north in Teddy territory, but now you split the 25% of people in between the two carts. 
+Teddy atende todos os fregueses ao norte no território dele, mas agora você divide 25% das pessoas entre os dois carrinhos.
+
+Day three of the ice cream wars, you get to the beach early, and set up right in the center of Teddy territory, assuming you'll serve the 75% of beachgoers to your south, leaving your cousin to sell to the 25% of customers to the north.
+No terceiro dia da guerra dos sorvetes, você chega à praia mais cedo e coloca seu carrinho no centro do território do Teddy, achando que atenderá 75% dos frequentadores a sul de você, deixando que seu primo venda aos 25% dos fregueses ao norte.
+
+When Teddy arrives, he sets up just south of you stealing all of the southerly customers, and leaving you with a small group of people to the north. 
+Quando o Teddy chega, ele coloca o carrinho ao sul de você, roubando todos os fregueses do sul e deixando para você um pequeno grupo de pessoas ao norte.
+
+Not to be outdone, you move 10 paces south of Teddy to regain your customers. 
+Para não ser passado para trás, você avança 10 passos ao sul da posição de Teddy e retoma seus fregueses.
+
+When you take a mid-day break, Teddy shuffles 10 paces south of you, and again, steals back all the customers to the far end of the beach. 
+Quando você vai almoçar, Teddy avança 10 passos ao sul de você, e, novamente, rouba todos os fregueses até o final da praia.
+
+Throughout the course of the day, both of you continue to periodically move south towards the bulk of the ice cream buyers, until both of you eventually end up at the center of the beach, back to back, each serving 50% of the ice-cream-hungry beachgoers. 
+Durante o dia, ambos continuam a se mudar para o sul em busca do maior número de fregueses de sorvete, até que ambos acabam ficando no meio da praia, um de costas para o outro, cada um atendendo 50% dos frequentadores famintos por sorvete.
+
+At this point, you and your competitive cousin have reached what game theorists call a Nash Equilibrium - the point where neither of you can improve your position by deviating from your current strategy. 
+Nesse momento, você e seu primo competitivo chegaram ao que os teóricos dos jogos chamam de Equilíbrio Nash, o ponto no qual nenhum de vocês melhora sua vantagem ao mudar a estratégia atual.
+
+Your original strategy, where you were each a quarter mile from the middle of the beach, didn't last, because it wasn't a Nash Equilibrium. 
+Sua estratégia original, quando estavam cada um a 400m do meio da praia, não durou, pois não era um Equilíbrio Nash.
+
+Either of you could move your cart towards the other to sell more ice cream. 
+Cada um de vocês podia mudar o carrinho em direção ao outro para vender mais sorvetes.
+
+With both of you now in the center of the beach, you can't reposition your cart closer to your furthest customers without making your current customers worse off. 
+Com os dois no meio da praia, não dá para reposicionar seu carrinho para perto de seus fregueses mais distantes sem piorar a condição atual de venda.
+
+However, you no longer have a socially optimal solution, since customers at either end of the beach have to walk further than necessary to get a sweet treat. 
+Entretando, você não tem mais uma solução socialmente ótima, já que os fregueses da ponta da praia terão de andar mais que o necessário para ter sua doce recompensa.
+
+Think about all the fast food chains, clothing boutiques, or mobile phone kiosks at the mall. 
+Pense sobre todas as cadeias de fast food, lojas de roupa ou quiosques de celular em um shopping center. 
+
+Customers may be better served by distributing services throughout a community, but this leaves businesses vulnerable to aggressive competition. 
+Os fregueses podem ser melhor servidos distribuindo-se os serviços pela comunidade, mas isso deixa os negociantes vulneráveis a concorrentes agressivos.
+
+In the real world, customers come from more than one direction, and businesses are free to compete with marketing strategies, by differentiating their product line, and with price cuts, but at the heart of their strategy, companies like to keep their competition as close as possible.
+No mundo real, os fregueses vêm de várias direções, e os negociantes estão livres para competir usando estratégias de vendas, diversificando a linha de produtos e concedendo descontos, mas no centro de sua estratégia, as companhias gostam de manter sua concorrência o mais próximo possível. 
